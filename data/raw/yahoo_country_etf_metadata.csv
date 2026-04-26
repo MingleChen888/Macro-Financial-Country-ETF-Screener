@@ -1,0 +1,9 @@
+accessed_at_utc,source,endpoint,ticker,country_code,country,asset_name,start_date,end_date
+2026-04-12T14:33:12+00:00,Yahoo Finance public chart API,https://query1.finance.yahoo.com/v8/finance/chart/{ticker},SPY,USA,United States,SPDR S&P 500 ETF Trust,2019-01-01,2026-04-12
+2026-04-12T14:33:12+00:00,Yahoo Finance public chart API,https://query1.finance.yahoo.com/v8/finance/chart/{ticker},MCHI,CHN,China,iShares MSCI China ETF,2019-01-01,2026-04-12
+2026-04-12T14:33:12+00:00,Yahoo Finance public chart API,https://query1.finance.yahoo.com/v8/finance/chart/{ticker},EWU,GBR,United Kingdom,iShares MSCI United Kingdom ETF,2019-01-01,2026-04-12
+2026-04-12T14:33:12+00:00,Yahoo Finance public chart API,https://query1.finance.yahoo.com/v8/finance/chart/{ticker},EWG,DEU,Germany,iShares MSCI Germany ETF,2019-01-01,2026-04-12
+2026-04-12T14:33:12+00:00,Yahoo Finance public chart API,https://query1.finance.yahoo.com/v8/finance/chart/{ticker},EWJ,JPN,Japan,iShares MSCI Japan ETF,2019-01-01,2026-04-12
+2026-04-12T14:33:12+00:00,Yahoo Finance public chart API,https://query1.finance.yahoo.com/v8/finance/chart/{ticker},INDA,IND,India,iShares MSCI India ETF,2019-01-01,2026-04-12
+2026-04-12T14:33:12+00:00,Yahoo Finance public chart API,https://query1.finance.yahoo.com/v8/finance/chart/{ticker},VNM,VNM,Viet Nam,VanEck Vietnam ETF,2019-01-01,2026-04-12
+2026-04-12T14:33:12+00:00,Yahoo Finance public chart API,https://query1.finance.yahoo.com/v8/finance/chart/{ticker},^IRX,USA,United States,13 Week Treasury Bill yield proxy,2019-01-01,2026-04-12

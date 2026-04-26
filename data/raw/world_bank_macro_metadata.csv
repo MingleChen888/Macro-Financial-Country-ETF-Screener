@@ -1,0 +1,6 @@
+accessed_at_utc,source,endpoint,countries,start_year,end_year,indicator_code,metric
+2026-04-24T12:47:09+00:00,World Bank Open Data / World Development Indicators API,https://api.worldbank.org/v2/country/{countries}/indicator/{indicator},CHN;USA;GBR;DEU;JPN;IND;VNM,2014,2024,NY.GDP.MKTP.KD.ZG,gdp_growth_pct
+2026-04-24T12:47:09+00:00,World Bank Open Data / World Development Indicators API,https://api.worldbank.org/v2/country/{countries}/indicator/{indicator},CHN;USA;GBR;DEU;JPN;IND;VNM,2014,2024,FP.CPI.TOTL.ZG,inflation_pct
+2026-04-24T12:47:09+00:00,World Bank Open Data / World Development Indicators API,https://api.worldbank.org/v2/country/{countries}/indicator/{indicator},CHN;USA;GBR;DEU;JPN;IND;VNM,2014,2024,SL.UEM.TOTL.ZS,unemployment_pct
+2026-04-24T12:47:09+00:00,World Bank Open Data / World Development Indicators API,https://api.worldbank.org/v2/country/{countries}/indicator/{indicator},CHN;USA;GBR;DEU;JPN;IND;VNM,2014,2024,NE.TRD.GNFS.ZS,trade_pct_gdp
+2026-04-24T12:47:09+00:00,World Bank Open Data / World Development Indicators API,https://api.worldbank.org/v2/country/{countries}/indicator/{indicator},CHN;USA;GBR;DEU;JPN;IND;VNM,2014,2024,BX.KLT.DINV.WD.GD.ZS,fdi_inflows_pct_gdp

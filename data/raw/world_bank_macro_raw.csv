@@ -1,0 +1,386 @@
+country,country_code,year,indicator_code,indicator_name,metric,value
+China,CHN,2014,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,2.51155883670463
+China,CHN,2015,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,2.14957284731563
+China,CHN,2016,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.52539470315394
+China,CHN,2017,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.32468971748482
+China,CHN,2018,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.66361992284408
+China,CHN,2019,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.28549226847992
+China,CHN,2020,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.68770756292082
+China,CHN,2021,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.8903454142588
+China,CHN,2022,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.03841365474349
+China,CHN,2023,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,0.280991103634816
+China,CHN,2024,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,0.0989988051182737
+China,CHN,2014,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,1.9216416278852
+China,CHN,2015,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,1.43702380935654
+China,CHN,2016,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,2.00000182191943
+China,CHN,2017,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,1.59313600071435
+China,CHN,2018,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,2.07479039965576
+China,CHN,2019,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,2.89923416358226
+China,CHN,2020,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,2.41942189457782
+China,CHN,2021,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,0.981015135544881
+China,CHN,2022,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,1.9735755573905
+China,CHN,2023,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,0.23483682889305
+China,CHN,2024,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,0.218128938439177
+China,CHN,2014,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,44.0684564812532
+China,CHN,2015,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,38.6971848362625
+China,CHN,2016,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,36.177170692978
+China,CHN,2017,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,36.95085261586
+China,CHN,2018,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,36.8943843914718
+China,CHN,2019,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,35.1994202738836
+China,CHN,2020,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,34.0389507864581
+China,CHN,2021,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,36.5206911762676
+China,CHN,2022,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,37.440719876366
+China,CHN,2023,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,36.1051923691138
+China,CHN,2024,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,37.1984201388065
+China,CHN,2014,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,7.46190028229434
+China,CHN,2015,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,6.97878002657477
+China,CHN,2016,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,6.77555562837017
+China,CHN,2017,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,6.8912663621211
+China,CHN,2018,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,6.75671800166833
+China,CHN,2019,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,6.06850235053705
+China,CHN,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,2.34018843078414
+China,CHN,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,8.57008513166322
+China,CHN,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,3.1341888719577
+China,CHN,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,5.41484330099675
+China,CHN,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,4.9773565917572
+China,CHN,2014,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.63
+China,CHN,2015,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.65
+China,CHN,2016,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.56
+China,CHN,2017,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.47
+China,CHN,2018,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.31
+China,CHN,2019,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.56
+China,CHN,2020,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,5.0
+China,CHN,2021,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.55
+China,CHN,2022,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.98
+China,CHN,2023,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.67
+China,CHN,2024,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.59
+Germany,DEU,2014,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,0.437762571704246
+Germany,DEU,2015,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.82239938063641
+Germany,DEU,2016,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.64365840117303
+Germany,DEU,2017,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,2.88914588414184
+Germany,DEU,2018,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,4.00082875273687
+Germany,DEU,2019,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.9056930139782
+Germany,DEU,2020,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,4.48523547812751
+Germany,DEU,2021,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,2.93002168676674
+Germany,DEU,2022,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,2.07605246190373
+Germany,DEU,2023,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.69740103499567
+Germany,DEU,2024,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.01586176558023
+Germany,DEU,2014,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,0.906794000434245
+Germany,DEU,2015,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,0.514426137125456
+Germany,DEU,2016,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,0.491747008445174
+Germany,DEU,2017,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,1.50949485109628
+Germany,DEU,2018,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,1.73216879766941
+Germany,DEU,2019,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,1.44565976888253
+Germany,DEU,2020,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,0.144877925813981
+Germany,DEU,2021,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,3.06666666666673
+Germany,DEU,2022,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,6.87257438551096
+Germany,DEU,2023,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,5.94643667725823
+Germany,DEU,2024,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,2.2564981433876
+Germany,DEU,2014,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,76.8483516336234
+Germany,DEU,2015,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,77.7565815686922
+Germany,DEU,2016,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,76.0059902166055
+Germany,DEU,2017,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,77.4548394742448
+Germany,DEU,2018,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,79.1252260463654
+Germany,DEU,2019,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,79.0732427175683
+Germany,DEU,2020,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,72.9335327120137
+Germany,DEU,2021,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,79.9195348609851
+Germany,DEU,2022,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,88.7857542130501
+Germany,DEU,2023,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,81.9625483787634
+Germany,DEU,2024,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,79.0907305894936
+Germany,DEU,2014,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,2.18018602168017
+Germany,DEU,2015,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,1.66300602334775
+Germany,DEU,2016,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,2.22222216259371
+Germany,DEU,2017,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,2.797906720551
+Germany,DEU,2018,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,1.13569604599849
+Germany,DEU,2019,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,0.977734697038784
+Germany,DEU,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,-4.13191443239947
+Germany,DEU,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,3.90999994204108
+Germany,DEU,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,1.8092581243061
+Germany,DEU,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,-0.869647578573321
+Germany,DEU,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,-0.495851897260366
+Germany,DEU,2014,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.979
+Germany,DEU,2015,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.612
+Germany,DEU,2016,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.104
+Germany,DEU,2017,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,3.781
+Germany,DEU,2018,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,3.384
+Germany,DEU,2019,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,3.163
+Germany,DEU,2020,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,3.881
+Germany,DEU,2021,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,3.594
+Germany,DEU,2022,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,3.137
+Germany,DEU,2023,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,3.071
+Germany,DEU,2024,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,3.4
+United Kingdom,GBR,2014,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.90870445734316
+United Kingdom,GBR,2015,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.53903424150931
+United Kingdom,GBR,2016,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,11.9998637298189
+United Kingdom,GBR,2017,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,4.64443540147576
+United Kingdom,GBR,2018,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,-0.864867036878713
+United Kingdom,GBR,2019,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,0.688204352262878
+United Kingdom,GBR,2020,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,5.77039185007421
+United Kingdom,GBR,2021,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,3.20643815254935
+United Kingdom,GBR,2022,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,2.91635435189931
+United Kingdom,GBR,2023,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,0.403116734836793
+United Kingdom,GBR,2024,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,-0.351465690300773
+United Kingdom,GBR,2014,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,1.45112016293279
+United Kingdom,GBR,2015,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,0.36804684232536
+United Kingdom,GBR,2016,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,1.0084173681141
+United Kingdom,GBR,2017,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,2.55775577557747
+United Kingdom,GBR,2018,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,2.29283990345938
+United Kingdom,GBR,2019,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,1.73810460086513
+United Kingdom,GBR,2020,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,0.989486703772491
+United Kingdom,GBR,2021,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,2.51837109614213
+United Kingdom,GBR,2022,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,7.92204883147902
+United Kingdom,GBR,2023,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,6.79396706793963
+United Kingdom,GBR,2024,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,3.2715729463592
+United Kingdom,GBR,2014,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,58.8210228333296
+United Kingdom,GBR,2015,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,57.125044605439
+United Kingdom,GBR,2016,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,59.8395315138259
+United Kingdom,GBR,2017,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,63.1899245764158
+United Kingdom,GBR,2018,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,64.9097721959201
+United Kingdom,GBR,2019,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,65.0035664177054
+United Kingdom,GBR,2020,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,59.1598893030611
+United Kingdom,GBR,2021,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,58.53838629291
+United Kingdom,GBR,2022,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,69.1989264413981
+United Kingdom,GBR,2023,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,64.9923841747803
+United Kingdom,GBR,2024,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,62.8401605267118
+United Kingdom,GBR,2014,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,3.16017351468152
+United Kingdom,GBR,2015,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,2.14040560033371
+United Kingdom,GBR,2016,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,2.20652020635357
+United Kingdom,GBR,2017,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,3.02322219840339
+United Kingdom,GBR,2018,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,1.55133095078786
+United Kingdom,GBR,2019,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,1.25629899760824
+United Kingdom,GBR,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,-10.047896637362
+United Kingdom,GBR,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,8.5431118453255
+United Kingdom,GBR,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,5.14970388522993
+United Kingdom,GBR,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,0.271650048355255
+United Kingdom,GBR,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,1.1264226705118
+United Kingdom,GBR,2014,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,6.398
+United Kingdom,GBR,2015,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,5.552
+United Kingdom,GBR,2016,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.909
+United Kingdom,GBR,2017,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.501
+United Kingdom,GBR,2018,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.145
+United Kingdom,GBR,2019,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,3.657
+United Kingdom,GBR,2020,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.472
+United Kingdom,GBR,2021,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.864
+United Kingdom,GBR,2022,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,3.768
+United Kingdom,GBR,2023,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.025
+United Kingdom,GBR,2024,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.361
+India,IND,2014,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.69565958990806
+India,IND,2015,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,2.09211521443253
+India,IND,2016,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.9373641224439
+India,IND,2017,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.50731583255894
+India,IND,2018,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.55821483801456
+India,IND,2019,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.78482633957161
+India,IND,2020,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,2.40620322673636
+India,IND,2021,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.41217101040888
+India,IND,2022,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.49248825904
+India,IND,2023,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,0.771919134264091
+India,IND,2024,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,0.694133152879562
+India,IND,2014,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,6.66565671867899
+India,IND,2015,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,4.90697344127256
+India,IND,2016,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,4.94821634062141
+India,IND,2017,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,3.32817337461298
+India,IND,2018,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,3.9388264669163
+India,IND,2019,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,3.72950573539129
+India,IND,2020,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,6.62343677628535
+India,IND,2021,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,5.13140747176369
+India,IND,2022,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,6.69903414079852
+India,IND,2023,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,5.64914318907925
+India,IND,2024,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,4.95303550973656
+India,IND,2014,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,48.9221857470669
+India,IND,2015,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,41.9229138658647
+India,IND,2016,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,40.082485713276
+India,IND,2017,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,40.7424969545225
+India,IND,2018,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,43.6169693323889
+India,IND,2019,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,39.9054035306442
+India,IND,2020,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,37.7581053292768
+India,IND,2021,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,45.4230887840446
+India,IND,2022,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,50.0752701498882
+India,IND,2023,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,44.9928422877561
+India,IND,2024,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,44.6492935069676
+India,IND,2014,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,7.41022760508854
+India,IND,2015,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,7.99625378571471
+India,IND,2016,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,8.25630550179086
+India,IND,2017,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,6.79538341897911
+India,IND,2018,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,6.45385134497769
+India,IND,2019,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,3.87143694070356
+India,IND,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,-5.77772470686801
+India,IND,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,9.68959249192875
+India,IND,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,7.60936497768895
+India,IND,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,9.19075493028345
+India,IND,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,6.49476552383821
+India,IND,2014,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,7.656
+India,IND,2015,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,7.629
+India,IND,2016,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,7.611
+India,IND,2017,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,7.626
+India,IND,2018,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,7.652
+India,IND,2019,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,6.51
+India,IND,2020,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,7.859
+India,IND,2021,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,6.38
+India,IND,2022,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.822
+India,IND,2023,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.172
+India,IND,2024,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.173
+Japan,JPN,2014,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,0.403354543401035
+Japan,JPN,2015,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,0.118161987748241
+Japan,JPN,2016,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,0.818481615264516
+Japan,JPN,2017,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,0.381319638034272
+Japan,JPN,2018,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,0.501685482403774
+Japan,JPN,2019,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,0.780785313301259
+Japan,JPN,2020,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.23830386396694
+Japan,JPN,2021,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,0.695100892094565
+Japan,JPN,2022,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.12971840820326
+Japan,JPN,2023,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,0.474278368651713
+Japan,JPN,2024,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,0.401239653950032
+Japan,JPN,2014,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,2.75922671353253
+Japan,JPN,2015,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,0.795279630579839
+Japan,JPN,2016,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,-0.127258844489754
+Japan,JPN,2017,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,0.484199796126385
+Japan,JPN,2018,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,0.989094598021848
+Japan,JPN,2019,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,0.46877615938395
+Japan,JPN,2020,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,-0.024995834027731
+Japan,JPN,2021,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,-0.233352779398264
+Japan,JPN,2022,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,2.49770278172255
+Japan,JPN,2023,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,3.26813365933163
+Japan,JPN,2024,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,2.73853681635241
+Japan,JPN,2014,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,37.4314345686579
+Japan,JPN,2015,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,35.4274083544798
+Japan,JPN,2016,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,31.3102468455884
+Japan,JPN,2017,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,34.4232135721686
+Japan,JPN,2018,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,36.609931802107
+Japan,JPN,2019,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,35.2164181084145
+Japan,JPN,2020,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,31.335208636773
+Japan,JPN,2021,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,36.7384462280698
+Japan,JPN,2022,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,46.8129868368938
+Japan,JPN,2023,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,45.1508795641248
+Japan,JPN,2024,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,46.4069516150859
+Japan,JPN,2014,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,0.296205514141889
+Japan,JPN,2015,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,1.56062669680782
+Japan,JPN,2016,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,0.753826745789127
+Japan,JPN,2017,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,1.67533175173359
+Japan,JPN,2018,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,0.643391023533141
+Japan,JPN,2019,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,-0.402169200894946
+Japan,JPN,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,-4.16876457146743
+Japan,JPN,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,2.69657404187188
+Japan,JPN,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,0.941998775483285
+Japan,JPN,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,1.47503481053384
+Japan,JPN,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,0.104309021773304
+Japan,JPN,2014,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,3.589
+Japan,JPN,2015,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,3.385
+Japan,JPN,2016,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,3.132
+Japan,JPN,2017,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,2.822
+Japan,JPN,2018,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,2.467
+Japan,JPN,2019,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,2.351
+Japan,JPN,2020,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,2.809
+Japan,JPN,2021,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,2.808
+Japan,JPN,2022,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,2.614
+Japan,JPN,2023,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,2.6
+Japan,JPN,2024,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,2.5
+United States,USA,2014,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.43502130688419
+United States,USA,2015,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,2.80914762910409
+United States,USA,2016,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,2.53749765919682
+United States,USA,2017,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.95521086285051
+United States,USA,2018,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.0457039920427
+United States,USA,2019,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.47787452846554
+United States,USA,2020,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,0.650821071352324
+United States,USA,2021,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,2.04998648308338
+United States,USA,2022,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.62816817042838
+United States,USA,2023,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.32618252590589
+United States,USA,2024,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,1.03321085618604
+United States,USA,2014,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,1.62222297740817
+United States,USA,2015,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,0.118627135552451
+United States,USA,2016,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,1.26158320570536
+United States,USA,2017,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,2.13011000365961
+United States,USA,2018,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,2.44258329692817
+United States,USA,2019,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,1.81221007526021
+United States,USA,2020,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,1.23358439630629
+United States,USA,2021,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,4.69785886363742
+United States,USA,2022,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,8.00279982052121
+United States,USA,2023,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,4.11633838374488
+United States,USA,2024,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,2.94952520485207
+United States,USA,2014,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,30.0044781614855
+United States,USA,2015,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,27.8235649187872
+United States,USA,2016,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,26.6079620604584
+United States,USA,2017,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,27.3130208877206
+United States,USA,2018,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,27.6103792720958
+United States,USA,2019,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,26.4537594940475
+United States,USA,2020,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,23.4015629969394
+United States,USA,2021,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,25.6095576621932
+United States,USA,2022,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,27.3139397355363
+United States,USA,2023,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,25.2903297883366
+United States,USA,2024,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,25.3786342507088
+United States,USA,2014,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,2.52381981363968
+United States,USA,2015,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,2.94555045484053
+United States,USA,2016,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,1.81945147788167
+United States,USA,2017,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,2.45762229852507
+United States,USA,2018,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,2.96650506901305
+United States,USA,2019,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,2.58382533412825
+United States,USA,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,-2.16302914036166
+United States,USA,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,6.05505293244555
+United States,USA,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,2.51237531986017
+United States,USA,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,2.88755600749487
+United States,USA,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,2.79300127716779
+United States,USA,2014,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,6.168
+United States,USA,2015,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,5.28
+United States,USA,2016,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.869
+United States,USA,2017,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.355
+United States,USA,2018,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,3.896
+United States,USA,2019,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,3.669
+United States,USA,2020,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,8.055
+United States,USA,2021,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,5.349
+United States,USA,2022,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,3.65
+United States,USA,2023,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,3.638
+United States,USA,2024,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,4.022
+Viet Nam,VNM,2014,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,3.94086189051961
+Viet Nam,VNM,2015,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,4.93190773329022
+Viet Nam,VNM,2016,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,4.90089302916746
+Viet Nam,VNM,2017,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,5.01148721749681
+Viet Nam,VNM,2018,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,4.99828319622328
+Viet Nam,VNM,2019,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,4.821074861051
+Viet Nam,VNM,2020,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,4.55836196782424
+Viet Nam,VNM,2021,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,4.27314566190187
+Viet Nam,VNM,2022,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,4.32947308910883
+Viet Nam,VNM,2023,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,4.26407109843686
+Viet Nam,VNM,2024,BX.KLT.DINV.WD.GD.ZS,"Foreign direct investment, net inflows (% of GDP)",fdi_inflows_pct_gdp,4.23394171325231
+Viet Nam,VNM,2014,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,4.08455446637617
+Viet Nam,VNM,2015,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,0.631200905175754
+Viet Nam,VNM,2016,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,2.66824816969082
+Viet Nam,VNM,2017,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,3.52025688811617
+Viet Nam,VNM,2018,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,3.53962805942641
+Viet Nam,VNM,2019,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,2.7958236745225
+Viet Nam,VNM,2020,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,3.22093436652514
+Viet Nam,VNM,2021,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,1.83471554810444
+Viet Nam,VNM,2022,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,3.15650749963129
+Viet Nam,VNM,2023,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,3.25289282667662
+Viet Nam,VNM,2024,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",inflation_pct,3.62109273885843
+Viet Nam,VNM,2014,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,135.410521454361
+Viet Nam,VNM,2015,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,144.914228195237
+Viet Nam,VNM,2016,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,145.409507973118
+Viet Nam,VNM,2017,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,160.98008365887
+Viet Nam,VNM,2018,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,164.663936775893
+Viet Nam,VNM,2019,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,164.704215031408
+Viet Nam,VNM,2020,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,163.245862814935
+Viet Nam,VNM,2021,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,186.675832836814
+Viet Nam,VNM,2022,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,183.153619147836
+Viet Nam,VNM,2023,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,164.818071269894
+Viet Nam,VNM,2024,NE.TRD.GNFS.ZS,Trade (% of GDP),trade_pct_gdp,173.862024782965
+Viet Nam,VNM,2014,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,6.42224312118567
+Viet Nam,VNM,2015,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,6.98715430598611
+Viet Nam,VNM,2016,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,6.69000892660424
+Viet Nam,VNM,2017,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,6.94019037359206
+Viet Nam,VNM,2018,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,7.46500685572751
+Viet Nam,VNM,2019,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,7.35926270105006
+Viet Nam,VNM,2020,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,2.86541320912272
+Viet Nam,VNM,2021,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,2.55372852648131
+Viet Nam,VNM,2022,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,8.53750046755788
+Viet Nam,VNM,2023,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,5.06502391455075
+Viet Nam,VNM,2024,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),gdp_growth_pct,7.09118746633975
+Viet Nam,VNM,2014,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,1.256
+Viet Nam,VNM,2015,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,1.848
+Viet Nam,VNM,2016,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,1.848
+Viet Nam,VNM,2017,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,1.874
+Viet Nam,VNM,2018,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,1.161
+Viet Nam,VNM,2019,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,1.681
+Viet Nam,VNM,2020,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,2.103
+Viet Nam,VNM,2021,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,2.383
+Viet Nam,VNM,2022,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,1.57
+Viet Nam,VNM,2023,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,1.645
+Viet Nam,VNM,2024,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",unemployment_pct,1.602
